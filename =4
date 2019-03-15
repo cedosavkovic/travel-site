@@ -1,4 +1,4 @@
 + gulp@3.9.1
-updated 1 package, moved 1 package and audited 16009 packages in 14.961s
-found 12 vulnerabilities (5 low, 3 moderate, 4 high)
+updated 1 package, moved 1 package and audited 15921 packages in 13.234s
+found 9 vulnerabilities (3 low, 2 moderate, 4 high)
   run `npm audit fix` to fix them, or `npm audit` for details
